@@ -137,6 +137,7 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 - [Intros AI](https://intros.ai/) - AI-powered networking platform for warm introductions.
 - [Hunter.io](https://hunter.io/) - Find professional email addresses for outreach and networking.
 - [Apollo.io](https://www.apollo.io/) - Sales intelligence platform useful for finding hiring managers and recruiters.
+- [Cold Email Grader](https://github.com/andrwspt/cold-email-grader) — Free offline cold email grader. Paste your cold email, get an instant score out of 100 with actionable fixes. 100% client-side, no server.
 
 ## Job Search APIs
 
