@@ -27,7 +27,7 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 
 ## AI Resume Builders
 
-- [Reactive Resume](https://github.com/AmruthPillworkaround/Reactive-Resume) - Free, open-source resume builder with AI features, real-time preview, and multiple templates.
+- [Reactive Resume](https://github.com/AmruthPillai/Reactive-Resume) - Free, open-source resume builder with AI features, real-time preview, and multiple templates.
 - [Teal](https://www.tealhq.com/) - AI-powered resume builder that tailors your resume to each job description.
 - [Rezi](https://www.rezi.ai/) - AI resume builder trained on recruiter preferences with ATS optimization.
 - [Kickresume](https://www.kickresume.com/) - AI resume and cover letter builder with 35+ professional templates.
@@ -40,6 +40,7 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 
 - [Jobscan](https://www.jobscan.co/) - Compare your resume against job descriptions and get an ATS match score.
 - [Resume Worded](https://resumeworded.com/) - AI-powered resume and LinkedIn review with line-by-line feedback.
+- [ResumeAI](https://withresumeai.com/) - Free ATS checker plus an open State of ATS 2026 dataset covering 738 employers (704 portal-verified).
 - [SkillSyncer](https://skillsyncer.com/) - Match your resume keywords against job descriptions to beat ATS filters.
 - [Huntr Resume Tailor](https://huntr.co/) - AI that adapts your resume to specific job descriptions automatically.
 - [Careerflow Resume Scanner](https://www.careerflow.ai/) - Free ATS scanner with keyword matching and formatting checks.
@@ -101,7 +102,7 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 - [Final Round AI](https://www.finalroundai.com/) - AI-powered mock interviews with real-time feedback and company-specific prep.
 - [InterviewBuddy](https://interviewbuddy.net/) - AI and expert-led mock interviews with performance analytics.
 - [Yoodli](https://yoodli.ai/) - AI speech coach that analyzes filler words, pacing, and clarity.
-- [Google Interview Warmup](https://grow.google/certificates/interview-warmup/) - Free AI-powered interview practice by Google.
+- [Google Interview Warmup](https://grow.google.com/certificates/interview-warmup/) - Free AI-powered interview practice by Google.
 - [Huru](https://www.huru.ai/) - AI interview coach with 1000+ industry-specific questions.
 
 ## Salary & Compensation
@@ -154,7 +155,7 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 - [Huntr Extension](https://huntr.co/) - Save jobs from any site and auto-organize your search.
 - [Careerflow Extension](https://www.careerflow.ai/) - LinkedIn profile optimizer and job tracker extension.
 - [LinkedIn Job Search Assistant](https://chrome.google.com/webstore) - Various extensions for enhancing LinkedIn job search.
-- [Glassdoor Enhancement Suite](https://chrome.google.com/webstore) - Extensions that add salary and review data to job listings.
+- [Glassdoor Enhancement Suite](https://chrome.webstore) - Extensions that add salary and review data to job listings.
 
 ## Tracking & Organization
 
@@ -166,11 +167,12 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 
 ## Open Source Job Tools
 
-- [Reactive Resume](https://github.com/AmruthPillworkaround/Reactive-Resume) - Free, open-source resume builder with real-time editing.
+- [Reactive Resume](https://github.com/AmruthPillai/Reactive-Resume) - Free, open-source resume builder with real-time editing.
 - [JobSwipe](https://github.com/Rohianon/jobswipe) - AI-powered job search automation with swipe UI, multi-LLM scoring, and auto-apply.
 - [JobSpy](https://github.com/Bunsly/JobSpy) - Python scraper for Indeed, LinkedIn, Glassdoor, and ZipRecruiter.
 - [LinkedRW](https://github.com/AymericCD/linkedrw) - Generate resume and personal website from your LinkedIn profile.
 - [Resume Matcher](https://github.com/srbhr/Resume-Matcher) - Open-source ATS that compares resumes with job descriptions using NLP.
+- [State of ATS 2026](https://github.com/Kayvan-Zahiri/state-of-ats-2026) - Open dataset of which ATS each of 738 large employers uses, with 704 portal-verified apply-host records.
 - [Auto Jobs Applier](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) - AI-powered bot to auto-apply to LinkedIn jobs.
 - [OpenResume](https://github.com/xitanggg/open-resume) - Open-source resume builder with real-time preview and ATS-friendly output.
 
